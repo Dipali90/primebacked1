@@ -36,7 +36,7 @@
     "jsonwebtoken": "3.2.2",
     "jsreport": "^0.7.0",
     "jsreport-client": "0.4.1",
-    "lodash": "3.2.0",
+    "lodash": "4.17.15",
     "machinepack-mandrill": "git://github.com/tmjam/machinepack-mandrill",
     "moment": "^2.10.3",
     "moment-timezone": "^0.4.0",
