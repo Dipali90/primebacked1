@@ -55,7 +55,7 @@
     "rc": "0.5.1",
     "request": "^2.65.0",
     "restify-errors": "^4.3.0",
-    "sails": "0.12.3",
+    "sails": "1.2.3",
     "sails-disk": "0.10.4",
     "sails-hook-apianalytics": "git://github.com/mikermcneil/sails-hook-apianalytics",
     "sails-mysql": "0.11.5",
